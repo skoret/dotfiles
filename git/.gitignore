@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+*.hprof
+
+.gradle
+.idea
+lombok.config
+build
+out
+logs
+.postgres/.pgdata
+
+/**/application-internal.yml
+
